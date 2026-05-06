@@ -1,0 +1,9 @@
+default:
+  name: "Tina Nägele"
+  bio: "Research Assistant, Linguistics"
+  location: "Stuttgart, Germany"
+  affiliations:
+    - "University of Stuttgart"
+  links:
+    - label: "University Profile"
+      url: "https://www.ling.uni-stuttgart.de/institut/team/Naegele-M.A./"

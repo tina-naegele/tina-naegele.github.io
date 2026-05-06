@@ -1,0 +1,51 @@
+@import "minimal-mistakes";
+
+.author__box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 12px;
+
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Avatar */
+.author__avatar {
+  width: clamp(200px, 40vw, 380px);
+  flex-shrink: 0;
+}
+
+.author__avatar img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+/* Content */
+.author__content {
+  padding-left: 0;
+}
+
+/* Desktop Layout */
+@media (min-width: 768px) {
+  .author__box {
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    gap: 32px;
+  }
+
+  .author__avatar {
+    flex: 0 0 420px;
+  }
+
+  .author__content {
+    flex: 1;
+    padding-left: 0;
+  }
+}
