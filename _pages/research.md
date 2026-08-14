@@ -6,7 +6,7 @@ author_profile: true
 ---
 I hold a master’s degree from the Eberhard Karls University of Tübingen and a bachelor’s degree from the University of Stuttgart.<br> 
 For my master’s thesis, supervised by [Britta Stolterfoht](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/deutsches-seminar/abteilungen/linguistik/personen/prof-dr-britta-stolterfoht/), I investigated the at-issue status of the content of iconic co-speech gestures expressing manner compared to the at-issueness of verbally expressed manner modification in German. To carry out this study, I also cooperated with [Cornelia Ebert](https://sites.google.com/view/cornelia-ebert/home) at the University of Frankfurt.<br>
-My bachelor’s thesis, supervised by [Ellen Brandner](https://www.ling.uni-stuttgart.de/en/institute/team/Brandner/), concerns the distribution of the indefinite article with mass nouns in Swabian. It is related to the DFG-funded project "Partition and individuation in Germanic", to which I contributed as a student assistant.
+My bachelor’s thesis, supervised by [Ellen Brandner](https://www.ling.uni-stuttgart.de/en/institute/team/Brandner/), concerns the distribution of the indefinite article with mass nouns in Swabian. It is related to the DFG-funded project ["Partition and individuation in Germanic"](https://www.ling.uni-stuttgart.de/en/institute/ilg/research/projects/dfg-project-partition-and-individuation/), to which I contributed as a student assistant.
 
 ---
 
