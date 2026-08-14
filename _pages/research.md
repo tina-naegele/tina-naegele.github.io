@@ -4,6 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+I hold a master’s degree from the Eberhard Karls University of Tübingen and a bachelor’s degree from the University of Stuttgart.<br> 
+For my master’s thesis, supervised by Britta Stolterfoht, I investigated the at-issue status of the content of iconic co-speech gestures expressing manner compared to the at-issueness of verbally expressed manner modification in German. To carry out this study, I also cooperated with Cornelia Ebert at the University of Frankfurt.<br>
+My bachelor’s thesis, supervised by Ellen Brandner, concerns the distribution of the indefinite article with mass nouns in Swabian. It is related to the DFG-funded 
+
+---
 
 ## Publications
 
